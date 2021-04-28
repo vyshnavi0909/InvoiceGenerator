@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 
-public class InvoiceTesting {
+public class InvoiceGeneratorTest {
 
     double[] distanceArray = {15, 20, 10};
     int[] timeArray = {10, 5, 15};
